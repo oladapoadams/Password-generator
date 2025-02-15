@@ -1,8 +1,12 @@
 # Password-generator
-This Automatically generates passwords 
-How to Set Up Twilio SMS Alerts:
-Sign Up on Twilio
+✅ Generate a new password every 10 minutes
+✅ Send an SMS alert with the updated password
+✅ Use Twilio API for SMS deliver
 
+
+How to Set Up Twilio SMS Alerts:
+
+Sign Up on Twilio
 Go to Twilio and create an account.
 Get a free trial number (or use a purchased one).
 Get Your Credentials
